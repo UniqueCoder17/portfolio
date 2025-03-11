@@ -2,7 +2,7 @@ import React from 'react';
 
 const Banner = () => {
     return (
-        <div className="hero bg-gray-900">
+        <div className="hero bg-gray-900 mt-12">
             <div className="hero-content flex-col lg:flex-row mt-6">
                 <img
                     src="raihan.jpg"
